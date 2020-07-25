@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "root-config": "https://github.com/polyglot-microfrontends/root-config.git",
+    "shared-dependencies": "https://github.com/polyglot-microfrontends/shared-dependencies.git",
+    "styleguide": "https://github.com/polyglot-microfrontends/styleguide.git",
+    "navbar": "https://github.com/polyglot-microfrontends/navbar.git",
+    "clients": "https://github.com/polyglot-microfrontends/clients.git",
+    "account-settings": "https://github.com/polyglot-microfrontends/account-settings.git"
+  }
+}
